@@ -27,4 +27,4 @@ MATHUSLA (Massive Timing Hodoscope for Ultra Stable neutraL pArticles) is a prop
 
 ## PHASE 2: Convolutional autoencoder for to detect patterns of linear signals of charges deposited in the planar detectors (Resistive Plate Chamber).
 
-![descarga](https://user-images.githubusercontent.com/23003922/156041464-710d4097-26e0-41f2-8778-7e6f1f408d29.png)
+![descarga menor](https://user-images.githubusercontent.com/23003922/156042506-82dc53a8-3e5b-455b-ae15-cee775781b27.png)
